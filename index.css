@@ -367,6 +367,9 @@ margin-bottom:1.5rem;
 
 @media screen and (min-width: 768px){
 
+.container-fixed {
+ padding:0 2.3rem;
+}
 .home-page  .rect {
 bottom:30%;
 left:40%;
