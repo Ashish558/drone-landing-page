@@ -555,7 +555,15 @@ margin-bottom:2rem;
 
 .bg-black{
 left:25%;
-
 }
+
+.features-container {
+margin-top:6rem;
+padding:4rem 0;
+}
+.fields-container {
+margin:6rem 0;
+}
+
 
 }
