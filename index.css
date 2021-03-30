@@ -236,7 +236,7 @@ align-items:center;
 .features-container {
 padding:4rem 0 2rem 0;
 position:relative;
-margin-top:3.5rem;
+margin-top:2.5rem;
 }
 .rect-big  {
 display:none;
@@ -337,6 +337,7 @@ color:var(--text);
 
 
 footer{
+margin-top:2rem;
 padding:3rem 0 1rem 0;
 color:var(--text);
 }
