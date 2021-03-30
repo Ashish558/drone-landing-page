@@ -236,7 +236,7 @@ align-items:center;
 .features-container {
 padding:4rem 0 2rem 0;
 position:relative;
-margin-top:2.5rem;
+margin-top:3.5rem;
 }
 .rect-big  {
 display:none;
@@ -280,14 +280,14 @@ margin-bottom:0.5rem;
 
 .fields-container {
 padding:1rem 0;
-margin:2.5rem 0;
+margin:3.5rem 0;
 }
 .fields{
 padding:0;
 }
 .fields .field {
 padding:0;
-margin-top:1rem;
+margin-top:2.5rem;
 }
 .fields .field-wrapper {
 position:relative;
